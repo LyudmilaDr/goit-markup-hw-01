@@ -1,0 +1,17 @@
+.header {
+  margin:0;
+  padding:0;
+  background-color:#ffffff; 
+
+}
+.footer {
+  background-color:#2F303A;
+}
+.footer-phone,
+.footer-all {
+  color:rgba(255, 255,255, 0.6) ;
+ 
+ size:14px;
+ line-height:24px;
+
+}
